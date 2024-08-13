@@ -9,8 +9,8 @@ This project aims to implement the Caesar Cipher, a simple encryption technique 
 - Support for customizable shift value
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/caesar-cipher.git`
-2. Navigate to the project directory: `cd caesar-cipher`
+1. Clone the repository: `git clone https://github.com/PranavSai29/Caeser-Cipher`
+2. Navigate to the project directory: `cd Caesar-Cipher`
 
 ## Usage
 To encrypt or decrypt a message, run the `main.py` script:
